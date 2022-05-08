@@ -2,4 +2,4 @@
 
 My personal website (GitHub Pages): https://github.com/martin-lukas/martin-lukas.github.io
 
-- 🌱 I’m currently learning Java, Maven, Spring, React, JavaScript and TypeScript.
+- 🌱 I’m currently learning Java, Spring and Docker.
