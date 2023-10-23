@@ -2,4 +2,4 @@
 
 My personal website (GitHub Pages): https://martin-lukas.github.io
 
-- 🌱 I’m currently learning AWS and some React.
+- 🌱 I’m currently learning more Java and Scala.
