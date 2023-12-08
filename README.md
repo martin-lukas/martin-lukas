@@ -2,4 +2,4 @@
 
 My personal website (GitHub Pages): https://martin-lukas.github.io
 
-- 🌱 I’m currently learning more Java and Scala.
+- 🌱 I’m currently learning Rust :crab:
