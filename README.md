@@ -2,4 +2,4 @@
 
 My personal website (GitHub Pages): https://martinlukas.net
 
-- 🌱 I’m currently learning Docker, and running my personal cloud at home ☁️
+- 🌱 I’m currently interested in containerization, and running my personal cloud at home ☁️
